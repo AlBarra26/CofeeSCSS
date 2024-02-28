@@ -1,0 +1,411 @@
+.container {
+  display: flex;
+  justify-content: start;
+  padding-top: 72px;
+}
+.container .content-center img {
+  position: absolute;
+  background-color: rgb(255, 243, 188);
+  width: 1250px;
+  height: 350px;
+  margin-top: 80px;
+  padding-left: 20px;
+  padding-right: 70px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.container .content-left .hero-img-container {
+  border: 1px;
+  border-radius: 10px;
+  padding: 10px;
+  width: 300px;
+  margin-left: 150px;
+  box-shadow: 0 0 5px 2px rgba(158, 153, 153, 0.5);
+  position: relative;
+}
+.container .content-left img {
+  width: 300px;
+  height: 380px;
+}
+.container .content-right {
+  position: relative;
+  width: 300px;
+  margin-left: 130px;
+  margin-top: 140px;
+}
+.container .content-right .title1 {
+  font-size: 30px;
+}
+.container .content-right .title1 span {
+  -webkit-text-decoration: underline rgb(255, 153, 0);
+          text-decoration: underline rgb(255, 153, 0);
+}
+.container .content-right p {
+  width: 350px;
+}
+.container .content-right .order-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 11px;
+  padding: 8px;
+  border-radius: 40px;
+  background-color: rgb(29, 14, 4);
+}
+.container .content-right .order-button span {
+  color: rgb(252, 183, 8);
+}
+
+.container2 {
+  display: flex;
+  justify-content: start;
+  padding-left: 90px;
+}
+.container2 .text-body {
+  margin-top: 130px;
+}
+.container2 .text-body .title3 span {
+  -webkit-text-decoration: underline rgb(255, 153, 0);
+          text-decoration: underline rgb(255, 153, 0);
+}
+
+.container3 {
+  display: flex;
+  justify-content: start;
+}
+.container3 .content-start .kopi1 {
+  border: 1px;
+  border-radius: 10px;
+  padding: 10px;
+  width: 250px;
+  margin-left: 150px;
+  box-shadow: 0 0 5px 2px rgba(158, 153, 153, 0.5);
+}
+.container3 .content-start img {
+  width: 250px;
+  height: 200px;
+}
+.container3 .content-start .icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(255, 153, 0);
+  padding: 3px;
+  border-radius: 100%;
+  width: 24px;
+  height: 24px;
+  margin-left: 200px;
+  position: relative;
+}
+.container3 .content-start .title4 {
+  font-size: 20px;
+}
+.container3 .content-start .title4 span {
+  margin-left: 100px;
+}
+.container3 .content-start p {
+  width: 150px;
+  position: absolute;
+  margin-top: 1px;
+}
+.container3 .content-start .glassy-card {
+  width: 50px;
+  padding: 4px;
+  background: rgb(255, 255, 255);
+  border-radius: 40px;
+  position: absolute;
+  margin-top: 15px;
+  margin-left: 160px;
+  border: 4cm;
+}
+.container3 .content-start .glassy-card .ai-star {
+  color: rgb(255, 208, 0);
+  position: relative;
+  padding-left: 5px;
+}
+.container3 .content-start p1 {
+  position: relative;
+  padding-left: 5px;
+  font-weight: bold;
+}
+.container3 .content-start .kopi2 {
+  border: 1px;
+  border-radius: 10px;
+  padding: 10px;
+  width: 250px;
+  margin-left: 150px;
+  margin-top: 30px;
+  box-shadow: 0 0 5px 2px rgba(158, 153, 153, 0.5);
+}
+.container3 .content-start img {
+  width: 250px;
+  height: 200px;
+  border-radius: 5%;
+}
+.container3 .content-start .icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(255, 153, 0);
+  padding: 3px;
+  border-radius: 100%;
+  width: 24px;
+  height: 24px;
+  margin-left: 200px;
+  position: relative;
+}
+.container3 .content-start .title4 {
+  font-size: 20px;
+}
+.container3 .content-start .title4 span {
+  margin-left: 100px;
+}
+.container3 .content-start p {
+  width: 150px;
+  position: absolute;
+  margin-top: 1px;
+}
+.container3 .content-start .glassy-card1 {
+  width: 50px;
+  padding: 4px;
+  background: rgb(255, 255, 255);
+  border-radius: 40px;
+  position: absolute;
+  margin-top: 3px;
+  margin-left: 1px;
+  border: 4cm;
+}
+.container3 .content-start .glassy-card1 .ai-star {
+  color: rgb(255, 208, 0);
+  position: relative;
+  padding-left: 5px;
+}
+.container3 .content-start p1 {
+  position: relative;
+  padding-left: 5px;
+  font-weight: bold;
+}
+.container3 .content-center2 .kopi3 {
+  border: 1px;
+  border-radius: 10px;
+  padding: 10px;
+  width: 250px;
+  margin-left: 110px;
+  box-shadow: 0 0 5px 2px rgba(158, 153, 153, 0.5);
+}
+.container3 .content-center2 img {
+  width: 250px;
+  height: 200px;
+}
+.container3 .content-center2 .icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(255, 153, 0);
+  padding: 3px;
+  border-radius: 100%;
+  width: 24px;
+  height: 24px;
+  margin-left: 200px;
+  position: relative;
+}
+.container3 .content-center2 .title4 {
+  font-size: 20px;
+}
+.container3 .content-center2 .title4 span {
+  margin-left: 100px;
+}
+.container3 .content-center2 p {
+  width: 150px;
+  position: absolute;
+  margin-top: 1px;
+}
+.container3 .content-center2 .glassy-card2 {
+  width: 50px;
+  padding: 4px;
+  background: rgb(255, 255, 255);
+  border-radius: 40px;
+  position: absolute;
+  margin-top: 15px;
+  margin-left: 120px;
+  border: 4cm;
+}
+.container3 .content-center2 .glassy-card2 .ai-star {
+  color: rgb(255, 208, 0);
+  position: relative;
+  padding-left: 5px;
+}
+.container3 .content-center2 p1 {
+  position: relative;
+  padding-left: 5px;
+  font-weight: bold;
+}
+.container3 .content-center2 .kopi4 {
+  border: 1px;
+  border-radius: 10px;
+  padding: 10px;
+  width: 250px;
+  margin-left: 110px;
+  margin-top: 30px;
+  box-shadow: 0 0 5px 2px rgba(158, 153, 153, 0.5);
+}
+.container3 .content-center2 img {
+  width: 250px;
+  height: 200px;
+  border-radius: 5%;
+}
+.container3 .content-center2 .icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(255, 153, 0);
+  padding: 3px;
+  border-radius: 100%;
+  width: 24px;
+  height: 24px;
+  margin-left: 200px;
+  position: relative;
+}
+.container3 .content-center2 .title4 {
+  font-size: 20px;
+}
+.container3 .content-center2 .title4 span {
+  margin-left: 100px;
+}
+.container3 .content-center2 p {
+  width: 150px;
+  position: absolute;
+  margin-top: 1px;
+}
+.container3 .content-center2 .glassy-card3 {
+  width: 50px;
+  padding: 4px;
+  background: rgb(255, 255, 255);
+  border-radius: 40px;
+  position: absolute;
+  margin-top: 3px;
+  margin-left: 1px;
+  border: 4cm;
+}
+.container3 .content-center2 .glassy-card3 .ai-star {
+  color: rgb(255, 208, 0);
+  position: relative;
+  padding-left: 5px;
+}
+.container3 .content-center2 p1 {
+  position: relative;
+  padding-left: 5px;
+  font-weight: bold;
+}
+.container3 .content-end .kopi5 {
+  border: 1px;
+  border-radius: 10px;
+  padding: 15px;
+  width: 250px;
+  margin-left: 110px;
+  box-shadow: 0 0 5px 2px rgba(158, 153, 153, 0.5);
+}
+.container3 .content-end img {
+  width: 250px;
+  height: 200px;
+}
+.container3 .content-end .icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(255, 153, 0);
+  padding: 3px;
+  border-radius: 100%;
+  width: 24px;
+  height: 24px;
+  margin-left: 200px;
+  position: relative;
+}
+.container3 .content-end .title5 {
+  font-size: 20px;
+}
+.container3 .content-end .title5 span {
+  margin-left: 50px;
+}
+.container3 .content-end p {
+  width: 150px;
+  position: absolute;
+  margin-top: 1px;
+}
+.container3 .content-end .glassy-card4 {
+  width: 50px;
+  padding: 4px;
+  background: rgb(255, 255, 255);
+  border-radius: 40px;
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 130px;
+  border: 4cm;
+}
+.container3 .content-end .glassy-card4 .ai-star {
+  color: rgb(255, 208, 0);
+  position: relative;
+  padding-left: 5px;
+}
+.container3 .content-end p1 {
+  position: relative;
+  padding-left: 5px;
+  font-weight: bold;
+}
+.container3 .content-end .kopi6 {
+  border: 1px;
+  border-radius: 10px;
+  padding: 10px;
+  width: 250px;
+  margin-left: 110px;
+  margin-top: 30px;
+  box-shadow: 0 0 5px 2px rgba(158, 153, 153, 0.5);
+}
+.container3 .content-end img {
+  width: 250px;
+  height: 200px;
+  border-radius: 5%;
+}
+.container3 .content-end .icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(255, 153, 0);
+  padding: 3px;
+  border-radius: 100%;
+  width: 24px;
+  height: 24px;
+  margin-left: 200px;
+  position: relative;
+}
+.container3 .content-end .title6 {
+  font-size: 20px;
+}
+.container3 .content-end .title6 span {
+  margin-left: 45px;
+}
+.container3 .content-end p {
+  width: 150px;
+  position: absolute;
+  margin-top: 1px;
+}
+.container3 .content-end .glassy-card5 {
+  width: 50px;
+  padding: 4px;
+  background: rgb(255, 255, 255);
+  border-radius: 40px;
+  position: absolute;
+  margin-top: 3px;
+  margin-left: 1px;
+  border: 4cm;
+}
+.container3 .content-end .glassy-card5 .ai-star {
+  color: rgb(255, 208, 0);
+  position: relative;
+  padding-left: 5px;
+}
+.container3 .content-end p1 {
+  position: relative;
+  padding-left: 5px;
+  font-weight: bold;
+}/*# sourceMappingURL=gaya.css.map */

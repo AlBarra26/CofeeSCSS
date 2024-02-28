@@ -1,0 +1,455 @@
+.container{
+    display: flex;
+   justify-content: start;
+   padding-top: 72px ;
+    .content-center{
+        img{
+        position: absolute;
+        background-color: rgb(255, 243, 188);
+        width: 1250px;
+        height: 350px;
+        margin-top: 80px;
+        padding-left: 20px;
+        padding-right: 70px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        }
+    }
+   
+   
+   .content-left{
+    .hero-img-container{
+        border: 1px ;
+        border-radius: 10px;
+        padding: 10px;
+        width: 300px;
+        margin-left: 150px;
+        box-shadow: 0 0 5px 2px rgba(158, 153, 153, 0.5);
+        position: relative;
+    }
+
+    img{
+        width: 300px;
+        height: 380px;
+
+        }
+    }
+
+    .content-right{
+        position: relative;
+        width: 300px;
+        margin-left: 130px;
+        margin-top: 140px;
+        
+        .title1{
+            font-size: 30px;
+            span{
+                text-decoration:underline rgb(255, 153, 0);
+            }
+        }
+ 
+        p{
+            width: 350px;
+        }
+
+        .order-button{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 11px;
+            padding: 8px;
+            border-radius: 40px;
+            background-color: rgb(29, 14, 4);
+
+            span{
+                color: rgb(252, 183, 8);
+            }
+        }
+    }
+} 
+
+.container2{
+    display: flex;
+    justify-content: start;
+    padding-left: 90px;
+    .text-body{
+        margin-top: 130px;
+        
+        .title3{
+            span{
+                text-decoration:underline rgb(255, 153, 0); 
+            }
+        }
+    }
+}
+
+.container3{
+    display: flex;
+    justify-content: start;  
+    .content-start{
+        .kopi1{
+            border: 1px ;
+            border-radius: 10px;
+            padding: 10px;
+            width: 250px;
+            margin-left: 150px;
+            box-shadow: 0 0 5px 2px rgba(158, 153, 153, 0.5);
+        }
+        img{
+            width: 250px;
+            height: 200px; 
+        }
+        
+        .icon{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: rgb(255, 153, 0);
+            padding: 3px;
+            border-radius: 100%;
+            width: 24px;
+            height: 24px;
+            margin-left: 200px;
+            position: relative;
+            
+        }
+        .title4{
+            font-size: 20px;
+            span{
+                margin-left: 100px;
+            }
+        }
+        p{
+            width: 150px;
+            position: absolute;
+            margin-top: 1px;
+        }
+
+        .glassy-card{
+            width: 50px;
+            padding: 4px;
+            background: rgb(255, 255, 255);
+            border-radius: 40px;
+            position: absolute;
+            margin-top: 15px;
+            margin-left: 160px;
+            border: 4cm;
+            
+            .ai-star{
+                color: rgb(255, 208, 0);
+                position: relative;
+                padding-left: 5px;
+            }
+        }
+        p1{
+            position: relative;
+            padding-left: 5px;
+            font-weight: bold;
+        }
+
+        .kopi2{
+            border: 1px ;
+            border-radius: 10px;
+            padding: 10px;
+            width: 250px;
+            margin-left: 150px;
+            margin-top: 30px;
+            box-shadow: 0 0 5px 2px rgba(158, 153, 153, 0.5);
+        }
+        img{
+            width: 250px;
+            height: 200px; 
+            border-radius: 5%;
+        }
+        .icon{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: rgb(255, 153, 0);
+            padding: 3px;
+            border-radius: 100%;
+            width: 24px;
+            height: 24px;
+            margin-left: 200px;
+            position: relative;
+            
+        }
+        .title4{
+            font-size: 20px;
+            span{
+                margin-left: 100px;
+            }
+        }
+        p{
+            width: 150px;
+            position: absolute;
+            margin-top: 1px;
+        }
+
+        .glassy-card1{
+            width: 50px;
+            padding: 4px;
+            background: rgb(255, 255, 255);
+            border-radius: 40px;
+            position: absolute;
+            margin-top: 3px;
+            margin-left: 1px;
+            border: 4cm;
+            
+            .ai-star{
+                color: rgb(255, 208, 0);
+                position: relative;
+                padding-left: 5px;
+            }
+        }
+        p1{
+            position: relative;
+            padding-left: 5px;
+            font-weight: bold;
+        }
+    }
+    
+    .content-center2{
+        .kopi3{
+            border: 1px ;
+            border-radius: 10px;
+            padding: 10px;
+            width: 250px;
+            margin-left: 110px;
+            box-shadow: 0 0 5px 2px rgba(158, 153, 153, 0.5);
+        }
+        img{
+            width: 250px;
+            height: 200px; 
+        }
+        .icon{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: rgb(255, 153, 0);
+            padding: 3px;
+            border-radius: 100%;
+            width: 24px;
+            height: 24px;
+            margin-left: 200px;
+            position: relative;
+            
+        }
+        .title4{
+            font-size: 20px;
+            span{
+                margin-left: 100px;
+            }
+        }
+        p{
+            width: 150px;
+            position: absolute;
+            margin-top: 1px;
+        }
+
+        .glassy-card2{
+            width: 50px;
+            padding: 4px;
+            background: rgb(255, 255, 255);
+            border-radius: 40px;
+            position: absolute;
+            margin-top: 15px;
+            margin-left: 120px;
+            border: 4cm;
+            
+            .ai-star{
+                color: rgb(255, 208, 0);
+                position: relative;
+                padding-left: 5px;
+            }
+        }
+        p1{
+            position: relative;
+            padding-left: 5px;
+            font-weight: bold;
+        }
+
+        .kopi4{
+            border: 1px ;
+            border-radius: 10px;
+            padding: 10px;
+            width: 250px;
+            margin-left: 110px;
+            margin-top: 30px;
+            box-shadow: 0 0 5px 2px rgba(158, 153, 153, 0.5);
+        }
+        img{
+            width: 250px;
+            height: 200px; 
+            border-radius: 5%;
+        }
+        .icon{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: rgb(255, 153, 0);
+            padding: 3px;
+            border-radius: 100%;
+            width: 24px;
+            height: 24px;
+            margin-left: 200px;
+            position: relative;
+            
+        }
+        .title4{
+            font-size: 20px;
+            span{
+                margin-left: 100px;
+            }
+        }
+        p{
+            width: 150px;
+            position: absolute;
+            margin-top: 1px;
+        }
+
+        .glassy-card3{
+            width: 50px;
+            padding: 4px;
+            background: rgb(255, 255, 255);
+            border-radius: 40px;
+            position: absolute;
+            margin-top: 3px;
+            margin-left: 1px;
+            border: 4cm;
+            
+            .ai-star{
+                color: rgb(255, 208, 0);
+                position: relative;
+                padding-left: 5px;
+            }
+        }
+        p1{
+            position: relative;
+            padding-left: 5px;
+            font-weight: bold;
+        }
+    }
+
+    .content-end{
+        .kopi5{
+            border: 1px ;
+            border-radius: 10px;
+            padding: 15px;
+            width: 250px;
+            margin-left: 110px;
+            box-shadow: 0 0 5px 2px rgba(158, 153, 153, 0.5);
+        }
+        img{
+            width: 250px;
+            height: 200px; 
+        }
+        .icon{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: rgb(255, 153, 0);
+            padding: 3px;
+            border-radius: 100%;
+            width: 24px;
+            height: 24px;
+            margin-left: 200px;
+            position: relative;
+            
+        }
+        .title5{
+            font-size: 20px;
+            span{
+                margin-left: 50px;
+            }
+        }
+        p{
+            width: 150px;
+            position: absolute;
+            margin-top: 1px;
+        }
+
+        .glassy-card4{
+            width: 50px;
+            padding: 4px;
+            background: rgb(255, 255, 255);
+            border-radius: 40px;
+            position: absolute;
+            margin-top: 20px;
+            margin-left: 130px;
+            border: 4cm;
+            
+            .ai-star{
+                color: rgb(255, 208, 0);
+                position: relative;
+                padding-left: 5px;
+            }
+        }
+        p1{
+            position: relative;
+            padding-left: 5px;
+            font-weight: bold;
+        }
+
+        .kopi6{
+            border: 1px ;
+            border-radius: 10px;
+            padding: 10px;
+            width: 250px;
+            margin-left: 110px;
+            margin-top: 30px;
+            box-shadow: 0 0 5px 2px rgba(158, 153, 153, 0.5);
+        }
+        img{
+            width: 250px;
+            height: 200px; 
+            border-radius: 5%;
+        }
+        .icon{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: rgb(255, 153, 0);
+            padding: 3px;
+            border-radius: 100%;
+            width: 24px;
+            height: 24px;
+            margin-left: 200px;
+            position: relative;
+            
+        }
+        .title6{
+            font-size: 20px;
+            span{
+                margin-left: 45px;
+            }
+        }
+        p{
+            width: 150px;
+            position: absolute;
+            margin-top: 1px;
+        }
+
+        .glassy-card5{
+            width: 50px;
+            padding: 4px;
+            background: rgb(255, 255, 255);
+            border-radius: 40px;
+            position: absolute;
+            margin-top: 3px;
+            margin-left: 1px;
+            border: 4cm;
+            
+            .ai-star{
+                color: rgb(255, 208, 0);
+                position: relative;
+                padding-left: 5px;
+            }
+        }
+        p1{
+            position: relative;
+            padding-left: 5px;
+            font-weight: bold;
+        }
+    }
+}
